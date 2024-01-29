@@ -57,7 +57,7 @@ nano install.sh
 
     ---
 
-    ![Imagen](Ejemplo4.JPG)
+    ![Imagen](ejemplo4.JPG)
 
 7. Para salir de editor y guardar puede presionar “**ctrl + x**” seguidamente se le consultará si desea guardar los cambios, confirme con “**y**” y luego “**enter**”.
 
@@ -81,11 +81,11 @@ por ejemplo:
 
     en la siguiente imagen le muestran el valor como v703JW.... debera copiarlo y añadirlo al primer record TXT, seguidamente pulsar enter, se le mostrará en pantalla un segundo valor para el segundo TXT
  
-    ![Imagen](Ejemplo2.JPG)
+    ![Imagen](ejemplo2.JPG)
 
 11. Editados los récords en su dominio, deberá aceptar para continuar y que el proceso verifique que sea exitoso, de ser exitoso obtendrá una pantalla similar a la siguiente:
 
-    ![Imagen](Ejemplo5.JPG)
+    ![Imagen](ejemplo5.JPG)
 
 
 12. Continuará el proceso de actualización del sistema, se le solicitará el usuario y contraseña de GitLab, para que se pueda clonar/descargar el proyecto en su instancia, luego culminará y tendrá los accesos listos en su dominio:

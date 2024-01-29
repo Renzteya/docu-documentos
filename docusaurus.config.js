@@ -16,7 +16,7 @@ const config = {
   url: 'https://renzteya.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docu-documentos/docs/intro',
+  baseUrl: '/docu-documentos/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -89,8 +89,8 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
+      /*footer: {
+       style: 'dark',
         links: [
           {
             title: 'Docs',
@@ -98,7 +98,7 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
-              },
+             },
             ],
           },
           {
@@ -133,7 +133,7 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
+      },*/
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
